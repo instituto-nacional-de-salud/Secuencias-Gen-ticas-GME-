@@ -14,7 +14,7 @@ La mayoría de las secuencias corresponden a las compartidas por el estudio "Cha
 - [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Dioselina Peláez-Carvajal](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000321605), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Katherine Laiton](https://scholar.google.com.co/citations?user=jRxRgEUAAAAJ&hl=en), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
-- [Diego Alejandro Alvarez Diaz]([https://scholar.google.com.co/citations?user=jRxRgEUAAAAJ&hl=en](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000944122)), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
+- [Diego Alejandro Alvarez Diaz](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000944122), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Carlos Franco](https://scholar.google.com.co/citations?user=jRxRgEUAAAAJ&hl=en), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Héctor Ruiz](https://x.com/hector_genomica), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Paola Rojas-Estevez](https://www.researchgate.net/profile/Paola-Rojas-Estevez), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
