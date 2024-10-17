@@ -1,13 +1,14 @@
 # Secuencias-Geneticas-GME
 
 Este es el repositorio de Secuencias Genéticas de SARS-CoV-2.
+Las secuencias corresponden a las secuencias totales generadas por Colombia. la mayoria corresponden a las secuencias generadas por el programa de vigilancia genómica de SARS-CoV-2 en Colombia incluyendo las secuencias anotadas para la caracterización de B.1.621 por el estudio "Characterization of the emerging B.1.621 variant of interest of SARS-CoV-2" : 10.1016/j.meegid.2021.105038 
+Además de las .
 
 ## Infraestructura 
 
 Este repositorio cuenta con un subset de datos epidemiológicos y genómicos de secuencias generadas durante la pandemia de SARS-CoV2 por el grupo de Genómica de Microorganismos emergentes.
 Cuenta con las secuencias .fasta y datos epidemiológicos relacionados con las muestras analizadas.
-La mayoría de las secuencias corresponden a las compartidas por el estudio "Characterization of the emerging B.1.621 variant of interest of SARS-CoV-2" : 10.1016/j.meegid.2021.105038 
-Además de las secuencias generadas por el programa de vigilancia genómica de SARS-CoV-2 en Colombia.
+
 
 
 ## Equipo de Analistas
